@@ -1,0 +1,48 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/c++",
+      "-Inew.p",
+      "-I.",
+      "-I..",
+      "-I../include",
+      "-fdiagnostics-color=always",
+      "-D_FILE_OFFSET_BITS=64",
+      "-Wall",
+      "-Winvalid-pch",
+      "-Wnon-virtual-dtor",
+      "-O0",
+      "-g",
+      "-c",
+      "-o",
+      "new.p/main.cpp.o",
+      "../main.cpp"
+    ],
+    "directory": "/home/krr/new/build",
+    "file": "/home/krr/new/main.cpp",
+    "output": "/home/krr/new/build/new.p/main.cpp.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/c++",
+      "-fdiagnostics-color=always",
+      "-Wall",
+      "-Winvalid-pch",
+      "-Wnon-virtual-dtor",
+      "-O0",
+      "-g",
+      "-Inew.p",
+      "-I.",
+      "-I..",
+      "-I../include",
+      "-D_FILE_OFFSET_BITS=64",
+      "-c",
+      "-o",
+      "new.p/main.cpp.o",
+      "../main.cpp"
+    ],
+    "directory": "/home/krr/new/build",
+    "file": "/home/krr/new/main.cpp",
+    "output": "/home/krr/new/build/new.p/main.cpp.o"
+  }
+]
